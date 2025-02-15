@@ -52,7 +52,7 @@ static const char *sSDKsample = "CUDA Bandwidth Test";
 
 // defines, project
 #define MEMCOPY_ITERATIONS 100
-#define DEFAULT_SIZE (32 * (1e6))      // 32 M
+#define DEFAULT_SIZE (64 * (1e6))      // 32 M
 #define DEFAULT_INCREMENT (4 * (1e6))  // 4 M
 #define CACHE_CLEAR_SIZE (16 * (1e6))  // 16 M
 
